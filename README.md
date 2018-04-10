@@ -1,8 +1,10 @@
 # My Python project's template
 
 ### modd.conf
-Execute automatically declared tasks whenever code change like running test or less css
+Execute automatically declared tasks whenever code change like running test or less css.
+
 [About modd](https://github.com/cortesi/modd)
+
 Sample *modd.conf* file content:
 >*.py{
 >    daemon +sigterm: PYTHONPATH=src python app.py
