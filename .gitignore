@@ -3,7 +3,6 @@ __pycache__/
 *$py.class
 build/
 dist/
-sandbox/
 *.egg-info
 .subl
 .cache
