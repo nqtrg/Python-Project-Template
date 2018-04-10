@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+sandbox/
+*.egg-info
+.subl
+.cache
+.benchmarks
